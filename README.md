@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Mahajan</h1>
 <h3 align="center">Passionate Full-Stack Developer | MERN Stack | AI & ML Enthusiast 🚀</h3>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Glitching Screen GIF" width="1000px">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Glitching Screen GIF" width="900px">
 
 
 
